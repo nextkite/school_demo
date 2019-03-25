@@ -1,0 +1,7 @@
+GUI是什么？
+    图形用户界面
+
+Tkinter是什么？
+    Tkinter 是使用 python 进行窗口视窗设计的模块。作为 python 特定的GUI界面，是一个图像
+的窗口，tkinter是python 自带的，可以编辑的GUI界面，我们可以用GUI 实现很多直观的功能，比如
+想开发一个计算器。
