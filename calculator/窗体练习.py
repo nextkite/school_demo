@@ -128,6 +128,7 @@ def pressRM():
     # elif ans_val[-1] == '.':
     #     flag_point = False
 
+
 def pressPoint():
     global ans_val
     global ans_temp_num
@@ -141,15 +142,13 @@ def pressPoint():
         ans_val = ans_val + ans_temp_num + ans_temp_sign
         ans_temp_num = ''
         ans_temp_sign = ''
-        if  ans_val =='' or ans_val[-1] == '+' or  ans_val[-1] == '-' or ans_val[-1] == '*' or  ans_val[-1] == '/' :
+        if ans_val == '' or ans_val[-1] == '+' or ans_val[-1] == '-' or ans_val[-1] == '*' or ans_val[-1] == '/':
             ans_val = ans_val + '0.'
         else:
             ans_val = ans_val + '.'
 
-
         display_ans.set(ans_val)
-    print(ans_val,ans_temp_num,flag_point)
-
+    print(ans_val, ans_temp_num, flag_point)
 
 
 # 数字函数 ok
@@ -198,7 +197,6 @@ def pressCompute(sign):
         ans_val = ans_val + ans_temp_num
         ans_temp_num = ''
 
-
     if ans_val == '':
         ans_val = '0'
 
@@ -207,7 +205,7 @@ def pressCompute(sign):
     elif sign == '-' and ans_temp_sign[-1] != '-' and ans_temp_sign[-1] != '+':
         ans_temp_sign = ans_temp_sign + sign
 
-    #print(ans_temp_sign)
+    # print(ans_temp_sign)
 
     display_ans.set(ans_val + ans_temp_sign)
 
@@ -266,7 +264,6 @@ def pressAns():
         # 结果显示
         display_ans.set("不能除以0")
         return
-
 
         print("yes")
     else:
