@@ -2,6 +2,7 @@ import pygame
 import random
 from sys import exit
 
+
 bg = './images/background.png'
 me = './images/me.png'
 me_d1 = './images/me_destroy_1.png'
@@ -23,6 +24,8 @@ again_flag = 0
 m_x = 0
 m_y = 0
 
+score = 0
+
 
 def update():
     global Y
@@ -38,8 +41,14 @@ def update():
     m_x, m_y = pygame.mouse.get_pos()
     m_x = m_x - me.get_width() / 2
     m_y = m_y - me.get_width() / 2
+
+    # 根据分数更改飞机样式
     if me_flag == 1:
-        screen.blit(me, (m_x, m_y))
+        if score >= 1:      # 大等 10
+            screen.blit(me_d1, (m_x, m_y))
+        else:
+            screen.blit(me, (m_x, m_y))
+
     # 将子弹画上去
     for i in arr_bullet:
         x, y = i
@@ -77,15 +86,28 @@ def update():
         screen.blit(again, (100, 300))
         screen.blit(gameover, (100, 350))
 
+    # 打印分数
+    text = pygame.font.SysFont(None, 50)
+    text_score = text.render('score : %d' % score, True, (255, 255, 255))
+    screen.blit(text_score, (0, 0))
+
 
     pygame.display.update()
-
-
 
     # 周期计时器
     Y = Y + 1
     if Y > 700:
         Y = 0
+
+
+# 分数统计
+def user_score(bool):
+    global score
+    if bool == True:
+        score = 0
+        return
+    score += 1
+    return score
 
 
 if __name__ == '__main__':
@@ -105,6 +127,9 @@ if __name__ == '__main__':
     again = pygame.image.load(again)
     gameover = pygame.image.load(gameover)
 
+    # 声音
+    
+
     while True:
 
         # 捕获事件
@@ -116,12 +141,11 @@ if __name__ == '__main__':
                 arr_bullet.append((x, y - 55))
             if event.type == pygame.MOUSEBUTTONDOWN and me_flag == 0:
                 x, y = pygame.mouse.get_pos()
-                if 100 < x and x <400 and  300 < y and y < 341:
+                if 100 < x and x < 400 and 300 < y and y < 341:
                     me_flag = 1
                     arr_enemy.clear()
-                elif 100 < x and x <400 and  350 < y and y < 391:
+                elif 100 < x and x < 400 and  350 < y and y < 391:
                     exit()
-
 
         update()
 
@@ -143,6 +167,7 @@ if __name__ == '__main__':
 
             if flag == 1:
                 del arr_bullet[i]
+                user_score(False)
 
                 for i in range(0, 20):
                     screen.blit(e_d1, (x_e - 28, y_e - 5))
@@ -170,6 +195,9 @@ if __name__ == '__main__':
                 x_e = x_e + 28
                 if (abs(t_m_x - x_e) < 40 and t_m_y - y_e < 90 and t_m_y - y_e > -60) or (abs(t_m_x - x_e) < 70 and t_m_y - y_e < 40 and t_m_y - y_e > -60):
                     me_flag = 0
+
+                    user_score(True)
+
                     del arr_enemy[i]
 
                     for i in range(0, 20):
