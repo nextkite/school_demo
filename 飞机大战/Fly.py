@@ -37,7 +37,7 @@ def update():
     # 获取鼠标位置,将飞机画上去
     m_x, m_y = pygame.mouse.get_pos()
     m_x = m_x - me.get_width() / 2
-    m_y = m_y - me.get_width() / 2
+    m_y = m_y - me.get_height() / 2
     if me_flag == 1:
         screen.blit(me, (m_x, m_y))
     # 将子弹画上去
