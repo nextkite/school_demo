@@ -2,9 +2,159 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d0c195d-bcf4-4d9f-817f-2e71c30053ba" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/school_demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/school_demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/Accident_Page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/Background_Page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/Begin_Page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/End_Page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/Fly2.0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/Fly3.0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/Me_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/Number/num_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/Number/num_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/Number/num_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/Number/num_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/Number/num_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/Number/num_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/Number/num_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/Number/num_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/Number/num_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/Number/num_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/Pass_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/Prepare_Page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/Pro_ene.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/Sound.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/background/SoundClose.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/background/SoundOpen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/background/background_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/background/background_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/background/background_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/background/background_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/background/heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/background/life.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/background/pause.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/background/title (2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/background/title.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/button/Restart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/button/Start.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/button/pause.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/end/End_title.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/end/L_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/end/L_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/end/L_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/end/Restart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/bb_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/bb_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/bb_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/bb_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/bb_5_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/bb_5_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/boss_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/boss_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/boss_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/boss_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/boss_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/em_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/em_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/em_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/em_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/em_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/em_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/em_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/em_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/em_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/em_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/em_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/em_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/em_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/em_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/em_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/emb_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/emb_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/emb_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/emb_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/emb_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/emb_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/emb_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/emb_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/emb_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/emb_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/emb_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/emb_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/emb_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/emb_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/emb_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/explode/explode1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/explode/explode2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/explode/explode3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/explode/explode4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/explode/explode5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/explode/explode_min1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/explode/explode_min2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/explode/explode_min3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/explode/explode_min4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/me_plane/me_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/me_plane/me_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/me_plane/me_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/me_plane/me_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/me_plane/meb_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/me_plane/meb_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/me_plane/meb_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/me_plane/meb_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/pass/ps_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/pass/ps_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/pass/ps_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/pass/ps_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/pass/ps_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/pygame 键盘和鼠标事件示例代码.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/sound/Boom.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/sound/boss.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/sound/jingbao.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/sound/lose.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/sound/shengxing.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/sound/shot.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/sound/win.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/时间测试.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/测试_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/测试_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/测试_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/飞机大战/测试_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/飞机大战/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/飞机大战/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/飞机大战/.idea/飞机大战.iml" beforeDir="false" afterPath="$PROJECT_DIR$/飞机大战/.idea/飞机大战.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/飞机大战/Fly.py" beforeDir="false" afterPath="$PROJECT_DIR$/飞机大战/Fly.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/飞机大战/images/bomb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/飞机大战/images/bomb_supply.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/飞机大战/images/bullet2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/飞机大战/images/bullet_supply.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/飞机大战/images/enemy1_down4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/飞机大战/images/enemy2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/飞机大战/images/enemy2_down1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/飞机大战/images/enemy2_down2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/飞机大战/images/enemy2_down3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/飞机大战/images/enemy2_down4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/飞机大战/images/enemy2_hit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/飞机大战/images/enemy3_down1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/飞机大战/images/enemy3_down2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/飞机大战/images/enemy3_down3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/飞机大战/images/enemy3_down4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/飞机大战/images/enemy3_down5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/飞机大战/images/enemy3_down6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/飞机大战/images/enemy3_hit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/飞机大战/images/enemy3_n1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/飞机大战/images/enemy3_n2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/飞机大战/images/life.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/飞机大战/images/me1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/飞机大战/images/me2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/飞机大战/images/me_destroy_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/飞机大战/images/pause_nor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/飞机大战/images/pause_pressed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/飞机大战/images/resume_nor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/飞机大战/images/resume_pressed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/飞机大战/plane_sprites.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/飞机大战/venv/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/飞机大战/venv/pip-selfcheck.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/飞机大战/测试1.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,7 +163,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/school_demo$Fly.coverage" NAME="Fly Coverage Results" MODIFIED="1555491215958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/飞机大战" />
+    <SUITE FILE_PATH="coverage/school_demo$Fly.coverage" NAME="Fly Coverage Results" MODIFIED="1556015408680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/飞机大战" />
+    <SUITE FILE_PATH="coverage/school_demo$Fly2_0.coverage" NAME="Fly2.0 Coverage Results" MODIFIED="1556015461466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/飞机大战" />
+    <SUITE FILE_PATH="coverage/school_demo$Fly3_0.coverage" NAME="Fly3.0 Coverage Results" MODIFIED="1556028314131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/飞机大战" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -31,11 +183,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/飞机大战/Fly.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/飞机大战/Fly3.0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="603">
-              <caret line="222" column="22" lean-forward="true" selection-start-line="222" selection-start-column="22" selection-end-line="222" selection-end-column="22" />
+            <state relative-caret-position="186">
+              <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/飞机大战/Accident_Page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -44,30 +208,29 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/飞机大战/images/enemy1_down1.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/飞机大战/images/enemy1_down2.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/飞机大战/images/enemy1_down3.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/飞机大战/.idea/飞机大战.iml">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/飞机大战/Sound.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-32">
+              <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>gameover</find>
+      <find>me_z_and_enemy_c</find>
+      <find>me_and_enemy_c</find>
+      <find>me_and_enemy_cz</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -77,6 +240,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/飞机大战/Fly.py" />
+        <option value="$PROJECT_DIR$/飞机大战/Sound.py" />
+        <option value="$PROJECT_DIR$/飞机大战/Fly3.0.py" />
+        <option value="$PROJECT_DIR$/飞机大战/Accident_Page.py" />
       </list>
     </option>
   </component>
@@ -101,6 +267,12 @@
               <item name="school_demo" type="462c0819:PsiDirectoryNode" />
               <item name="飞机大战" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="school_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="school_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="飞机大战" type="462c0819:PsiDirectoryNode" />
+              <item name="background" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -111,6 +283,11 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/飞机大战/sound" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -124,7 +301,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Fly3.0">
     <configuration name="Fly" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="school_demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,8 +324,54 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Fly2.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="school_demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/飞机大战" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/飞机大战/Fly2.0.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Fly3.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="school_demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/飞机大战" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/飞机大战/Fly3.0.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Fly3.0" />
+        <item itemvalue="Python.Fly2.0" />
         <item itemvalue="Python.Fly" />
       </list>
     </recent_temporary>
@@ -165,21 +388,24 @@
       <updated>1555295298202</updated>
       <workItem from="1555295300585" duration="10783000" />
       <workItem from="1555491168466" duration="928000" />
+      <workItem from="1555933844555" duration="414000" />
+      <workItem from="1556015373831" duration="6225000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5200000" />
+    <option name="totallyTimeSpent" value="11839000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14590965" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14957266" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32244897" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32959184" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32244897" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -203,8 +429,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/飞机大战/Fly.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="603">
-          <caret line="222" column="22" lean-forward="true" selection-start-line="222" selection-start-column="22" selection-end-line="222" selection-end-column="22" />
+        <state relative-caret-position="1560">
+          <caret line="77" column="28" selection-start-line="77" selection-start-column="28" selection-end-line="77" selection-end-column="28" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
@@ -214,14 +440,98 @@
     <entry file="file://$PROJECT_DIR$/飞机大战/images/enemy1_down1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/飞机大战/images/enemy1_down2.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/飞机大战/images/enemy1_down3.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/飞机大战/.idea/飞机大战.iml">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/飞机大战/Fly2.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/飞机大战/images/enemy1_down2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/飞机大战/sound/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calculator/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/req/req_uninstall.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="116" column="26" selection-start-line="116" selection-start-column="26" selection-end-line="116" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/飞机大战/Pass_1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/飞机大战/Begin_Page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/飞机大战/End_Page.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/飞机大战/Me_page.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/飞机大战/Prepare_Page.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/飞机大战/Pro_ene.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2573" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/飞机大战/pygame 键盘和鼠标事件示例代码.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/飞机大战/Background_Page.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/飞机大战/Sound.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-32">
+          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/飞机大战/Fly3.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/飞机大战/Accident_Page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
