@@ -1,161 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d0c195d-bcf4-4d9f-817f-2e71c30053ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/飞机大战/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/Accident_Page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/Background_Page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/Begin_Page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/End_Page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/Fly2.0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/Fly3.0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/Me_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/Number/num_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/Number/num_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/Number/num_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/Number/num_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/Number/num_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/Number/num_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/Number/num_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/Number/num_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/Number/num_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/Number/num_9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/Pass_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/Prepare_Page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/Pro_ene.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/Sound.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/background/SoundClose.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/background/SoundOpen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/background/background_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/background/background_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/background/background_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/background/background_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/background/heart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/background/life.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/background/pause.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/background/title (2).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/background/title.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/button/Restart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/button/Start.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/button/pause.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/end/End_title.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/end/L_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/end/L_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/end/L_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/end/Restart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/bb_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/bb_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/bb_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/bb_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/bb_5_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/bb_5_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/boss_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/boss_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/boss_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/boss_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/boss_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/em_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/em_10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/em_11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/em_12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/em_13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/em_14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/em_15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/em_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/em_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/em_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/em_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/em_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/em_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/em_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/em_9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/emb_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/emb_10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/emb_11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/emb_12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/emb_13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/emb_14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/emb_15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/emb_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/emb_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/emb_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/emb_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/emb_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/emb_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/emb_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/enemy_plane/emb_9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/explode/explode1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/explode/explode2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/explode/explode3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/explode/explode4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/explode/explode5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/explode/explode_min1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/explode/explode_min2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/explode/explode_min3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/explode/explode_min4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/me_plane/me_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/me_plane/me_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/me_plane/me_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/me_plane/me_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/me_plane/meb_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/me_plane/meb_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/me_plane/meb_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/me_plane/meb_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/pass/ps_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/pass/ps_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/pass/ps_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/pass/ps_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/pass/ps_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/pygame 键盘和鼠标事件示例代码.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/sound/Boom.ogg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/sound/boss.ogg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/sound/jingbao.ogg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/sound/lose.ogg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/sound/shengxing.ogg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/sound/shot.ogg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/sound/win.ogg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/时间测试.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/测试_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/测试_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/测试_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/飞机大战/测试_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/飞机大战/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/飞机大战/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/飞机大战/.idea/飞机大战.iml" beforeDir="false" afterPath="$PROJECT_DIR$/飞机大战/.idea/飞机大战.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/飞机大战/Fly.py" beforeDir="false" afterPath="$PROJECT_DIR$/飞机大战/Fly.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/飞机大战/images/bomb.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/飞机大战/images/bomb_supply.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/飞机大战/images/bullet2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/飞机大战/images/bullet_supply.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/飞机大战/images/enemy1_down4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/飞机大战/images/enemy2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/飞机大战/images/enemy2_down1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/飞机大战/images/enemy2_down2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/飞机大战/images/enemy2_down3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/飞机大战/images/enemy2_down4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/飞机大战/images/enemy2_hit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/飞机大战/images/enemy3_down1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/飞机大战/images/enemy3_down2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/飞机大战/images/enemy3_down3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/飞机大战/images/enemy3_down4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/飞机大战/images/enemy3_down5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/飞机大战/images/enemy3_down6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/飞机大战/images/enemy3_hit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/飞机大战/images/enemy3_n1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/飞机大战/images/enemy3_n2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/飞机大战/images/life.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/飞机大战/images/me1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/飞机大战/images/me2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/飞机大战/images/me_destroy_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/飞机大战/images/pause_nor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/飞机大战/images/pause_pressed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/飞机大战/images/resume_nor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/飞机大战/images/resume_pressed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/飞机大战/plane_sprites.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/飞机大战/venv/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/飞机大战/venv/pip-selfcheck.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/飞机大战/测试1.py" beforeDir="false" />
-    </list>
+    <list default="true" id="1d0c195d-bcf4-4d9f-817f-2e71c30053ba" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,7 +41,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/飞机大战/Accident_Page.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="258">
@@ -203,6 +49,18 @@
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="44">
+                <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -243,6 +101,7 @@
         <option value="$PROJECT_DIR$/飞机大战/Sound.py" />
         <option value="$PROJECT_DIR$/飞机大战/Fly3.0.py" />
         <option value="$PROJECT_DIR$/飞机大战/Accident_Page.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -261,17 +120,6 @@
             <path>
               <item name="school_demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="school_demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="school_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="school_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="飞机大战" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="school_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="school_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="飞机大战" type="462c0819:PsiDirectoryNode" />
-              <item name="background" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -389,23 +237,30 @@
       <workItem from="1555295300585" duration="10783000" />
       <workItem from="1555491168466" duration="928000" />
       <workItem from="1555933844555" duration="414000" />
-      <workItem from="1556015373831" duration="6225000" />
+      <workItem from="1556015373831" duration="6455000" />
     </task>
+    <task id="LOCAL-00001" summary="飞机大战 3.0">
+      <created>1556028390123</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1556028390123</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11839000" />
+    <option name="totallyTimeSpent" value="12069000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14957266" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32959184" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32244897" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32244897" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -425,6 +280,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="飞机大战 3.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="飞机大战 3.0" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/飞机大战/Fly.py">
@@ -530,6 +389,16 @@
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="44">
+            <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
