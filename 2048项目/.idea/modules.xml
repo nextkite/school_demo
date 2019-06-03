@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/2048项目.iml" filepath="$PROJECT_DIR$/.idea/2048项目.iml" />
+      <module fileurl="file://C:/PycharmProjects/飞机大战/.idea/飞机大战.iml" filepath="C:/PycharmProjects/飞机大战/.idea/飞机大战.iml" />
+    </modules>
+  </component>
+</project>
